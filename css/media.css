@@ -86,9 +86,8 @@
     padding-top: 3.6rem
   }
   /* 0 */
-  #section0{
-    section {padding: 14rem 0}
-  }
+   section {padding: 14rem 0}
+
   /* 가이드  */
 /*   .rel{width: 130rem; background-color: rgba(127, 255, 212, 0.137);} */
   #section0 .tit_wrap {
