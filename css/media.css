@@ -87,7 +87,7 @@
   }
   /* 0 */
   #section0{
-    background: url(../img/mainbg.png) no-repeat  center 58% /cover ;
+    section {padding: 14rem 0}
   }
   /* 가이드  */
 /*   .rel{width: 130rem; background-color: rgba(127, 255, 212, 0.137);} */

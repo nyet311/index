@@ -125,7 +125,7 @@ header .rel .header_left{
 }
 /* Section 0____________ */
 #section0{
-  background: url(../img/mainbg-m.png) no-repeat 74%  center/cover;
+  background: url(../img/mainbg-m.png) no-repeat 74%  top/cover;
   height: 100vh;
   padding: 0; 
 }
